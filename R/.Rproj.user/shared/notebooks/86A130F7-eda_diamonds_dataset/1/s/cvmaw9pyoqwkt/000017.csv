@@ -1,0 +1,4 @@
+"0","ggplot(diamonds2) + geom_point(aes(x=carat, y=resid))
+"
+"2","Error: object 'diamonds2' not found
+"
